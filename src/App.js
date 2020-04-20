@@ -28,7 +28,7 @@ function App() {
                             </Link>
                         </li>
                         <li>
-                            <Link to="lagosconnect/ogun" className="menu">
+                            <Link to="/ogun" className="menu">
                                 <div className="menu__icon"> <i data-feather="home"></i> </div>
                                 <div className="menu__title"> Ogun </div>
                             </Link>
@@ -40,7 +40,7 @@ function App() {
                 
                 
                 <Switch>
-                    <Route path="lagosconnect/ogun">
+                    <Route path="/ogun">
                       <div className="border-b border-theme-24 -mt-10 md:-mt-5 -mx-3 sm:-mx-8 px-3 sm:px-8 pt-3 md:pt-0 mb-10">
                           <div className="top-bar-boxed flex items-center">
                               <Link to="/" className="-intro-x hidden md:flex">
@@ -58,7 +58,7 @@ function App() {
                                   </Link>
                               </li>
                               <li>
-                                  <Link to="lagosconnect/ogun" className="top-menu top-menu--active">
+                                  <Link to="/ogun" className="top-menu top-menu--active">
                                       <div className="top-menu__icon"> <i data-feather="home"></i> </div>
                                       <div className="top-menu__title"> Ogun </div>
                                   </Link>
@@ -85,7 +85,7 @@ function App() {
                                       </Link>
                                   </li>
                                   <li>
-                                      <Link to="lagosconnect/ogun" className="top-menu">
+                                      <Link to="/ogun" className="top-menu">
                                           <div className="top-menu__icon"> <i data-feather="home"></i> </div>
                                           <div className="top-menu__title"> Ogun </div>
                                       </Link>
