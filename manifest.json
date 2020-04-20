@@ -1,6 +1,6 @@
 {
   "short_name": "Lagosconnect",
-  "name": "Create React App Sample",
+  "name": "LASG NPF Emergency Numbers For Lagos and Ogun with Reactjs",
   "icons": [
     {
       "src": "police.png",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://surepeps.github.io/lagosconnect/",
+  "start_url": "https://surepeps.github.io/lagosconnect",
   "display": "standalone",
   "theme_color": "#1c3faa",
   "background_color": "#1c3faa"

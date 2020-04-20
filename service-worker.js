@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lagosconnect/precache-manifest.e948721584fb0032e9c2a999d2d64485.js"
+  "/lagosconnect/precache-manifest.3a717beea2f162c901f33a529d38528b.js"
 );
 
 self.addEventListener('message', (event) => {
