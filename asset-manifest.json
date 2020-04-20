@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/lagosconnect/static/js/main.e1d15a2c.chunk.js",
+    "main.js.map": "/lagosconnect/static/js/main.e1d15a2c.chunk.js.map",
+    "runtime-main.js": "/lagosconnect/static/js/runtime-main.5f7f1d53.js",
+    "runtime-main.js.map": "/lagosconnect/static/js/runtime-main.5f7f1d53.js.map",
+    "static/js/2.475ee205.chunk.js": "/lagosconnect/static/js/2.475ee205.chunk.js",
+    "static/js/2.475ee205.chunk.js.map": "/lagosconnect/static/js/2.475ee205.chunk.js.map",
+    "index.html": "/lagosconnect/index.html",
+    "precache-manifest.601624ffc907bd2bd7170e4ac97dff67.js": "/lagosconnect/precache-manifest.601624ffc907bd2bd7170e4ac97dff67.js",
+    "service-worker.js": "/lagosconnect/service-worker.js",
+    "static/js/2.475ee205.chunk.js.LICENSE.txt": "/lagosconnect/static/js/2.475ee205.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f7f1d53.js",
+    "static/js/2.475ee205.chunk.js",
+    "static/js/main.e1d15a2c.chunk.js"
+  ]
+}
