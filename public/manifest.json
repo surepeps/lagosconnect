@@ -1,0 +1,25 @@
+{
+  "short_name": "Lagosconnect",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "police.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "police.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "police.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://surepeps.github.io/lagosconnect/",
+  "display": "standalone",
+  "theme_color": "#1c3faa",
+  "background_color": "#1c3faa"
+}
