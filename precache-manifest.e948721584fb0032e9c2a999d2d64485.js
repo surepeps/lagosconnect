@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "697e46c049e590dbb0b0a6f75850a3ed",
+    "revision": "888f3bfc1c56957f1ec6ab015f02dfea",
     "url": "/lagosconnect/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lagosconnect/static/js/2.475ee205.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b678f3f40e04c4a6db12",
-    "url": "/lagosconnect/static/js/main.22753543.chunk.js"
+    "revision": "6049eb4b5e588f01979e",
+    "url": "/lagosconnect/static/js/main.d954affc.chunk.js"
   },
   {
     "revision": "1dbe79c214ecbf8a3572",
